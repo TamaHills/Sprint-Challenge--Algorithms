@@ -8,7 +8,7 @@ This will take n loops to break the while loop. Therefore this will run in O(n) 
 
 b)
 
-The outer loop will take n passes to complete. The inner loop with take n / 2 passes. This will run in O(n^2) time
+The outer loop will take n passes to complete. The inner loop with take log n passes. This will run in O(n log n) time
 
 c)
 
