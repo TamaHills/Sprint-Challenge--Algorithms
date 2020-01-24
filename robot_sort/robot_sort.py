@@ -96,9 +96,13 @@ class SortingRobot:
         """
         Sort the robot's list.
         """
-        # Fill this out
-        pass
-
+        # grab item
+        # move right
+        # if right item is greater
+            # move left
+            # drop item
+            # move right
+            # grab item
 
 if __name__ == "__main__":
     # Test our your implementation from the command line
